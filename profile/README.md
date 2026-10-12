@@ -7,7 +7,7 @@
 
 # About Us
 
-Gen 62 Software Engineering students at SMKN 1 Jenangan.
+Gen 62 Software Engineering students at SMK Negeri 1 Jenangan.
 
 
 # Languages and Tools
