@@ -1,5 +1,4 @@
-<!-- Replace the src URL with your custom image path, e.g., ./banner.png or a URL -->
-![](./assets/banner.png)
+![](/assets/banner.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=600&size=20&pause=1000&color=36BCF7&width=435&lines=STMJ+Generation+62;Software+Engineering+Department;SMK+Negeri+1+Jenangan;">
